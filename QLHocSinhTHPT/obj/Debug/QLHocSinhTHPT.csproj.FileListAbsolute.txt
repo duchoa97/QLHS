@@ -1,0 +1,140 @@
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.exe
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.pdb
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.exe
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.pdb
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.csprojResolveAssemblyReference.cache
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmConnection.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmQuyDinh.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmDoiMatKhau.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmSplash.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmDangNhap.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmXemDiem.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNhapDiemRieng.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNhapDiemChung.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTimKiemHS.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTimKiemGV.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmPhanLop.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmPhanCong.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLop.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocSinh.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmGiaoVien.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNgheNghiep.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLoaiNguoiDung.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNguoiDung.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLoaiDiem.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmKetQua.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHanhKiem.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocLuc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmKhoiLop.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocKy.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNamHoc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmMonHoc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTonGiao.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmDanToc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaHocKy_MonHoc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaHocKy_Lop.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaCaNam_MonHoc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaCaNam_Lop.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachLopHoc.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachHocSinh.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachGiaoVien.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmAbout.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmMain.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Properties.Resources.resources
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.csproj.GenerateResource.Cache
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\RdlCompile.cache
+C:\Users\CUONG\Desktop\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\RdlCompile.compiled
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.exe
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.pdb
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.exe
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.pdb
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\bin\Debug\System.Web.Services.dll
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\bin\Debug\ADODB.dll
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.csprojResolveAssemblyReference.cache
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmConnection.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmQuyDinh.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmDoiMatKhau.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmSplash.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmDangNhap.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmXemDiem.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNhapDiemRieng.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNhapDiemChung.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTimKiemHS.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTimKiemGV.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmPhanLop.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmPhanCong.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLop.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocSinh.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmGiaoVien.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNgheNghiep.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLoaiNguoiDung.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNguoiDung.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLoaiDiem.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmKetQua.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHanhKiem.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocLuc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmKhoiLop.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocKy.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNamHoc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmMonHoc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTonGiao.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmDanToc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaHocKy_MonHoc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaHocKy_Lop.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaCaNam_MonHoc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaCaNam_Lop.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachLopHoc.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachHocSinh.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachGiaoVien.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmAbout.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmMain.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Properties.Resources.resources
+D:\Download\[cnttqn.com] Source code quan ly hoc sinh trung hoc pho thong Full\Source Code\QLHocSinhTHPTv3.0\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.csproj.GenerateResource.Cache
+D:\Download\QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.exe
+D:\Download\QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.pdb
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.exe
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.pdb
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.exe
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.pdb
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\bin\Debug\System.Web.Services.dll
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\bin\Debug\ADODB.dll
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.csprojResolveAssemblyReference.cache
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmConnection.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmQuyDinh.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmDoiMatKhau.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmSplash.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Component.frmDangNhap.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmXemDiem.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNhapDiemRieng.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNhapDiemChung.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTimKiemHS.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTimKiemGV.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmPhanLop.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmPhanCong.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLop.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocSinh.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmGiaoVien.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNgheNghiep.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLoaiNguoiDung.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNguoiDung.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmLoaiDiem.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmKetQua.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHanhKiem.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocLuc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmKhoiLop.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmHocKy.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmNamHoc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmMonHoc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmTonGiao.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmDanToc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaHocKy_MonHoc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaHocKy_Lop.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaCaNam_MonHoc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptKetQuaCaNam_Lop.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachLopHoc.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachHocSinh.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Reports.frptDanhSachGiaoVien.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmAbout.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.frmMain.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.Properties.Resources.resources
+D:\Hoc tap\TT nhom\New folder\New folder\X_QLHS\QLHocSinhTHPT\obj\Debug\QLHocSinhTHPT.csproj.GenerateResource.Cache
